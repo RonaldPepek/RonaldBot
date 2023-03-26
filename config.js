@@ -62,14 +62,14 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'PutraModz', true]
+['62895341928633', 'Ronald Jancok', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
-global.nomorown1 = '61483906014'
-global.nomorown2 = '6282214729677'//bisa nama pacarmu
+global.nomorbot = '6283853221174'
+global.nomorown = '62895341928633'
+global.nomorown1 = '62895341928633'
+global.nomorown2 = '62895341928633'//bisa nama pacarmu
 global.nomorown3 = '61483906014' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
@@ -77,32 +77,32 @@ global.nomorwa = '0'//gakusah di ganti
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Amelia Botz'
-global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | PutraModz'
+global.author = 'Created By RonaldBot'
+global.namebot = ' RonaldBot'
+global.wm = '© RonaldBot | Ronald'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'PutraModz '
-global.wm3 = 'Amelia-MD'
+global.wm2 = 'Ronald '
+global.wm3 = 'RonaldBot'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `AMELIA PUTRI SEPTIANY`
 global.stickpack = 'Amelia-Botz'
 global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
-global.nameown2 = 'Purnama'
+global.nameown1= 'Ronald'
+global.nameown2 = 'Nothing'
 global.nameown3 = 'Nothing'
 global.packname2 = 'Amelia-MD'
 global.stickauth = `© PutraModz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
+global.nameown = 'Ronald'
 global.ultahowner = 'Febuari 02 2024'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.sgc = 'soon' //group whatsapp
+global.lynk = 'Soon'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -120,13 +120,13 @@ global.syt = 'https://youtube.com/@Putra_Modz_'
 global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0838 6372 7401'
-global.povo = '0838 6372 7401'
+global.pdana = '0895 3419 28633'
+global.povo = '0895 3419 28633'
 global.plinkaja = '-' //link aja
 global.pgopay = '-'
-global.ppulsa = '0838 6372 7401'
-global.ppulsa2 = '082214729678'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = 'Soon'
+global.ppulsa2 = 'Soon'
+global.psaweria = 'Soon'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
